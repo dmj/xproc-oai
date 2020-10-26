@@ -1,6 +1,6 @@
 # XProc 1.0 OAI-PMH
 
-Copyright (c) 2018,2019 by David Maus <dmaus@dmaus.name>
+Copyright (c) 2018-2020 by David Maus &lt;dmaus@dmaus.name&gt;
 
 This XProc 1.0 library implements the Open Archive Initiative's Protocol for Metadata Harvesting (OAI-PMH). It provides
 a single step for each of the protocol operations and is capable of aggregating incomplete list responses to a complete
